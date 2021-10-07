@@ -9,6 +9,10 @@ To run the program just run the MCServerCreator.exe file and fill in the questio
 The program has the following features:
 - Auto Updating available servers
 
+# How to report an issue
+To report an issue you can create a ticket in the issues tab of
+this project!
+
 # Supported Versions
 Here is a list of all supported Server Versions:
 - v-1.17
